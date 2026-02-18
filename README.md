@@ -11,3 +11,9 @@ Feb 17, 2026 - Day 2:
 - Completed Training Grounds challenges for Ch 3–8
 - Multiple commits added for each chapter
 - Notes: Fundamentals clicking fast; loops felt natural. Pausing before Lists/Dictionaries to keep quality high.
+
+Feb 18, 2026 - Day 3:
+- Finished Chapter 9 (Lists) — took longer due to depth of Training Grounds
+- Completed extra Training Grounds challenge: sorting + merging lists (challenging but great practice for real-world data manipulation)
+- Started Chapter 10 (Dictionaries) intro
+- Notes: Mutability, slicing, and iteration patterns clicking; edge cases are forcing good debugging habits. Energy good overall.

@@ -17,3 +17,10 @@ Feb 18, 2026 - Day 3:
 - Completed extra Training Grounds challenge: sorting + merging lists (challenging but great practice for real-world data manipulation)
 - Started Chapter 10 (Dictionaries) intro
 - Notes: Mutability, slicing, and iteration patterns clicking; edge cases are forcing good debugging habits. Energy good overall.
+
+Feb 19, 2026 - Day 4:
+- Finished Chapter 11 (Sets) including Training Grounds
+- Added commits for set operations, membership checks, and edge cases
+- Late start but consistent effort
+- Holding off on Chapter 12 (Errors) to avoid rushing—will pick up tomorrow
+- Notes: Sets clicked well after lists/dicts; debugger ready for upcoming logic/error work.

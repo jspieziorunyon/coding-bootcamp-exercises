@@ -24,3 +24,9 @@ Feb 19, 2026 - Day 4:
 - Late start but consistent effort
 - Holding off on Chapter 12 (Errors) to avoid rushing—will pick up tomorrow
 - Notes: Sets clicked well after lists/dicts; debugger ready for upcoming logic/error work.
+
+Feb 20, 2026 - Day 5:
+- Major milestone: Finished "Learn to Code in Python" course (Ch 1–end, including errors/exceptions and practice/quiz)
+- Began "Learn Linux" course — completed Chapters 1–2 (intro to terminal, navigation, ls/cd/pwd/mkdir/touch/rm/cat, etc.)
+- No GitHub code commits (Linux work is shell-based), but progress logged here
+- Notes: Python fundamentals feel solid; Linux commands coming back quickly. Training Grounds reinforced earlier topics nicely. Good day overall.
